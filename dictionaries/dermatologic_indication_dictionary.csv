@@ -1,0 +1,44 @@
+term,match_rule
+psoriasis,case-insensitive substring on indication PT
+psoriatic,case-insensitive substring on indication PT
+dermatitis,case-insensitive substring on indication PT
+eczema,case-insensitive substring on indication PT
+acne,case-insensitive substring on indication PT
+urticaria,case-insensitive substring on indication PT
+angioedema,case-insensitive substring on indication PT
+hidradenitis,case-insensitive substring on indication PT
+alopecia,case-insensitive substring on indication PT
+hair loss,case-insensitive substring on indication PT
+vitiligo,case-insensitive substring on indication PT
+melanoma,case-insensitive substring on indication PT
+basal cell carcinoma,case-insensitive substring on indication PT
+squamous cell carcinoma,case-insensitive substring on indication PT
+actinic keratosis,case-insensitive substring on indication PT
+skin cancer,case-insensitive substring on indication PT
+skin neoplasm,case-insensitive substring on indication PT
+rosacea,case-insensitive substring on indication PT
+pemphigus,case-insensitive substring on indication PT
+pemphigoid,case-insensitive substring on indication PT
+lupus,case-insensitive substring on indication PT
+pruritus,case-insensitive substring on indication PT
+itch,case-insensitive substring on indication PT
+onychomycosis,case-insensitive substring on indication PT
+tinea,case-insensitive substring on indication PT
+lichen planus,case-insensitive substring on indication PT
+morphea,case-insensitive substring on indication PT
+scleroderma,case-insensitive substring on indication PT
+pyoderma,case-insensitive substring on indication PT
+photo,case-insensitive substring on indication PT
+seborrhoe,case-insensitive substring on indication PT
+hyperhidrosis,case-insensitive substring on indication PT
+cutane,case-insensitive substring on indication PT
+skin,case-insensitive substring on indication PT
+wart,case-insensitive substring on indication PT
+cellulitis,case-insensitive substring on indication PT
+impetigo,case-insensitive substring on indication PT
+scabies,case-insensitive substring on indication PT
+herpes,case-insensitive substring on indication PT
+erythema nodosum,case-insensitive substring on indication PT
+granuloma annulare,case-insensitive substring on indication PT
+sarcoid,case-insensitive substring on indication PT
+keratosis,case-insensitive substring on indication PT
